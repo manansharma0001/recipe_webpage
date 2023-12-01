@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  <style>
+    h2 {
+font-family: Arial, sans-serif;
+}
+ </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>la mananico recipe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="container">
+        
+        <header>
+            <div class="navContainer">
+                <form action="">
+                    <input type="text" name="search" placeholder="Search ...">
+                    <input type="submit" value="Search">
+                </form>
+                
+                <nav>
+                    <ul id="navList">
+                        <li>
+                            <p id="navLogo">LA MANANICO RECIPES</p>
+                        </li>
+                        <li>
+                            <div id="navItems">
+                                <a href="#">Home</a>
+                                <a href="#">Contact</a>
+                                <a href="#">About</a>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <div class="contentBox">
+                <section>
+                    <div class="item">
+                        <div class="leftBox">
+                        <i><h2 class="unique-heading">ITALIAN PIZZA</h2></i>
+
+                            <div>
+                               <i> <h2>Ingredients</h2></i>
+                                <ul class="ingBox">
+                                    <i><b>
+                                    <li>1200g All-Purpose Flour (maida)</li>
+                                    <li>360ml Water, slightly warm</li>
+                                    <li>7g Salt</li>
+                                    <li>1.5g Fresh Yeast</li></i></b>
+                                </ul>
+                            </div>
+                            
+                            <div>
+                               <i> <h2>Recipe</h2></i>
+                                <ul class="recipeBox">
+                                    <i>
+                                    <li>In a large mixing bowl, combine the all-purpose flour and salt.</li>
+                                    <li>In a separate bowl, mix the water and fresh yeast. Let it proof for about 10 minutes.</li>
+                                    <li>Add the yeast mixture to the flour mixture and mix well until a smooth dough forms.</li>
+                                    <li>Knead the dough for about 10 minutes until it becomes smooth and elastic.</li>
+                                    <li>Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for about 1 to 2 hours. The dough should double in size.</li>
+                                    <li>400g Tomato Paste
+                                        1 Can (240g) Tomato Puree</li>
+                                        <li>2 Cloves Garlic, minced
+                                            1 Large Onion, finely chopped</li>
+                                        <li>1 Jalapeno Pepper, finely chopped (optional)
+                                            200ml Olive Oil
+                                            2 Tablespoons Italian Herbs (e.g., basil, oregano, parsley)</li>
+                                        <li>Salt and Freshly Ground Black Pepper</li>
+                                        <li> Assemble the Pizza Ingredients:
+
+                                            Pizza Dough
+                                            Pizza Sauce
+                                            100g Mozzarella Cheese, shredded
+                                            100g Parmesan Cheese, shredded
+                                            1 Red Bell Pepper, thinly</li>
+
+                                        </ul></i>
+                            </div>
+
+                            
+
+                        </div>
+
+                        <div class="rightBox">
+                            <img 
+                                src="italian pizza.jpg"
+                            />
+                            <div class="overlay">
+                                <span> pizza</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="item">
+                        <div class="leftBox">
+                        <h2 class="unique-heading">AGILO E OLIO</h2></i>
+
+                            <div>
+                               <i> <h2>Ingredients</h2></i>
+                                <ul><i><b>
+                                    <li>2 tomatoes, chopped</li>
+                                    <li>Garlic: 20 cloves of fresh garlic.</li>
+                                    <li>Italian Black Saffron: 200g of dried Italian black saffron.</li>
+                                    <li>1 cup of herbs (such as oregano, thyme, and rosemary), chopped</li>
+                                </ul></i></b>
+                            </div>
+                            
+                            <div>
+                               <i> <h2>Recipe</h2>
+                                <ul>
+                                    <li>Start by preheating your oven to 200°C (392°F). Mix well to ensure an even distribution of cheese. </li>
+                                    <li>In a large pot,cook according to the package instruction drain the pasta.</li>
+                                    <li>While the pasta is cooking, unsalted until tender, about 5 minutes.</li>
+                                    <li>Once the pasta is cooked and drained, and mix well.  adjust the seasoning with taste.</li>
+                                    <li>To serve, divide the aglio e olio pasta between 2 plates or bowls. 1/2 cup of  sliced Enjoy!</li>
+                                </ul>
+                            </div></i>
+
+                            
+
+                        </div>
+                        <div class="rightBox">
+                            <img 
+                                src="images.jpeg"
+                            />
+                            <div class="overlay">
+                                <span> agilo e oilio</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="item">
+                        <div class="leftBox">
+                        <h2 class="unique-heading">AVOCADO SANDWICH</h2></i>
+
+                            <div>
+                                <h2>Ingredients</h2>
+                                <ul class="ingBox"><b>
+                                    <li>1 cup all-purpose flour</li>
+                                    <li>1 teaspoon baking powder
+                                        1/2 teaspoon salt</li>
+                                    <li>1 cup whole milk
+                                        1 cup vegetable oil, melted and cooled</li>
+                                        <li>1 tablespoon vanilla extract
+                                            1 teaspoon ground cinnamon</li>
+                                            <li>1 cup mashed ripe avocado</li></i></b>
+                                </ul>
+                            </div>
+                            
+                            <div>
+                                <i><h2>Recipe</h2></i>
+                                <ul class="recipeBox"><i>
+                                    <li>Prepare the avocado: Place a ripe avocado in a large bowl. </li>
+                                    <li>Preheat the oven: Preheat your oven to 375 degrees Fahrenheit </li>
+                                    <li>Combine the ingredients: In a mixing bowl, chopped fresh herbs.</li>
+                                    <li>Drizzle oil over the avocado:</li>
+                                    <li>Assemble the avocado bread </li>
+                                    <li>Bake the avocado bread: 12-15 minutes to ensure brownness.</li>
+                                    <li>Slice and serve the avocado bread: such as a poached egg, fresh tomato, or avocado spread. Enjoy!
+
+                                        This delicious, flavorful, and versatile avocado</li></i>
+                                </ul>
+                            </div>
+
+                            
+
+                        </div>
+
+                        <div class="rightBox">
+                            <img 
+                                src="avocado-sandwich-vert.jpg"
+                            />
+                            <div class="overlay">
+                                <span> sandwich</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="item">
+                        <div class="leftBox">
+                        <h2 class="unique-heading">COLD COFEE</h2></i>
+
+                            <div>
+                                <h2>Ingredients</h2>
+                                <ul><b>
+                                    <li>Sugar </li>
+                                    <li>Fresh Milk </li>
+                                    <li>Espresso Shot</li>
+                                    <li>Steamed Milk </li>
+                                    <li>Creamer </li></b>
+                                </ul>
+                            </div>
+                            
+                            <div>
+                                <h2>Recipe</h2>
+                                <ul>
+                                    <li>Measure out 8 ounces of cold brew extract and dissolve it in 32 ounces of ice water. Set aside to infuse the cold brew extract.</li>
+                                    <li>While the cold brew extract is infusing, measure out the desired amount of ground coffee (usually between 12 and 16 ounces) and prepare a mug with ice.</li>
+                                    <li>Pour the infused cold brew extract into the mug, being careful not to let any ice get into the coffee.</li>
+                                    <li>Lastly, add a dash of cinnamon to the cold cofee mixture for a delightful touch of flavor. Taste the cold cofee and adjust the sweetness by adding more brown sugar or milk, if necessary.</li>
+                                    <li>enjoy! your drink</li></i>
+                                </ul>
+                            </div>
+
+                            
+
+                        </div>
+                        <div class="rightBox">
+                            <img 
+                                src="wp4905794-cold-coffee-wallpapers.jpg"
+                            />
+                            <div class="overlay">
+                                <span>cold cofee</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="item">
+                        <div class="leftBox">
+                        <i><h2 class="unique-heading">PITA BREAD</h2></i>
+
+                            <div>
+                                <h2>Ingredients</h2>
+                                <ul class="ingBox"><b>
+                                    <li>1.5 cups warm water (110-120°F)
+                                        2 teaspoons active dry yeast</li>
+                                    <li>1 tablespoon sugar
+                                        1.5 cups all-purpose flour, plus additional for dusting</li>
+                                    <li>1 teaspoon salt
+                                        1.5 cups oil </li></b>
+                                </ul>
+                            </div>
+                            
+                            <div>
+                                <h2>Recipe</h2>
+                                <ul class="recipeBox">
+                                    <li>In a medium bowl, combine the warm water, active dry yeast, and sugar.it will activated and begins to bubble.</li>
+                                    <li>In a separate large bowl, whisk together the all-purpose flour and.ltirring until a shaggy dough forms</li>
+                                    <li>Punch down the risen dough and divide it into 8 equal pieces.</li>
+                                    <li>Using your fingers, gently shape each portion of dough into a round ball.</li>
+                                    <li>While the dough is rising, preheat it.</li>
+                                    <li>enjoy!</li></i>
+                                </ul>
+                            </div>
+
+                            
+
+                        </div>
+
+                        <div class="rightBox">
+                            <img 
+                                src="Pita-Bread-2.jpg"
+                            />
+                            <div class="overlay">
+                                <span> Pita bread</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section>
+                    <div class="item">
+                        <div class="leftBox">
+                         <i><h2 class="unique-heading">OREO SHAKE</h2></i>
+
+                            <div>
+                                <h2>Ingredients</h2>
+                                <ul><b>
+                                    <li>2 tablespoons all-purpose flour
+                                        2 cups cold whole milk</li>
+                                    <li>2 teaspoons vanilla extract
+                                        2 cups fresh or frozen mixed berries (you can also use different fruit if desired)</li>
+                                    <li>Optional: sprinkles or a dusting of confectioners' sugar for a finishing touch</li></b>
+                                </ul>
+                            </div>
+                            
+                            <div>
+                                <h2>Recipe</h2>
+                                <ul>
+                                    <li>Combine the all-purpose flour and cold whole milk in a blender</li>
+                                    <li>In a separate bowl, whisk together the eggs and vanilla extract until well combined.</li>
+                                    <li>Gently pour the fresh or frozen mixed berries into the OREO shake maker.</li>
+                                    <li>Place the OREO shake maker in the preheated pot of boiling water. </li>
+                                    <li>Close the lid on the OREO shake maker and carefully lift it out of the boiling water.</li>
+                                    <li>Turn on your blender and start blending the OREO shake mixture until it becomes a smooth</li>
+                                    <li>Once the mixture has reached your desired smoothness, transfer it to a container or cup.</li>
+                                    <li>now enjoy your shake</li></i>
+                                </ul>
+                            </div>
+
+                            
+
+                        </div>
+                        <div class="rightBox">
+                            <img 
+                                src="mint-oreo-milkshake-featured-1.jpg"
+                            />
+                            <div class="overlay">
+                                <span>oreo shake</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        <footer>
+           <div class="footerBox">
+                <p>
+                    THANKS FOR VISITING LA MANANICO RECIPE'S
+                </p>
+           </div>
+        </footer>
+
+
+    </div>
+
+</body>
+</html>
